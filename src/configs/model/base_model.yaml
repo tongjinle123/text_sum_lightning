@@ -1,0 +1,4 @@
+model:
+  class: src.model.base_model.BaseModel
+  params:
+  lightning_model_class: src.model.lightning_model.BaseLightning
